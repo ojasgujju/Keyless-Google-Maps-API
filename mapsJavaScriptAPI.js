@@ -1,4 +1,4 @@
-var CROSproxyURL = 'https://www.whateverorigin.org/get?url=';
+var CROSproxyURL = 'https://proxy.ojas.workers.dev/?url=';
 
 var args = '';
 if (typeof language != 'undefined') args += '&language=' + language;
